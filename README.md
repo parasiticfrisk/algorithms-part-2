@@ -5,6 +5,7 @@ by Princeton University
 
 [![school-badge]][school]
 [![license-badge]][&copy]
+![Maintenance](https://img.shields.io/maintenance/no/2019?style=for-the-badge)
 
 </div>
 
@@ -33,19 +34,20 @@ By viewing and/or interacting with these files as a current or future student of
 <!-- quick links -->
 <!-- badge info -->
 [school-badge]:https://img.shields.io/badge/Coursera-Algorithms%202-ffffff?logo=coursera&labelColor=0056D2&style=for-the-badge
-[school]:https://www.coursera.org/learn/algorithms-part2 "view course"
+[school]:https://www.coursera.org/learn/algorithms-part2 "view on coursera"
 [license-badge]:https://img.shields.io/github/license/parasiticfrisk/algorithms-part-2?color=informational&style=for-the-badge
-[&copy]:LICENSE "MIT License"
+[&copy]:LICENSE "view license"
 <!-- assignments -->
-[WordNet]:assignment/wordnet
-[Seam Carving]:assignment/seam
-[Baseball Elimination]:assignment/baseball
-[Boggle]:assignment/boggle
-[Burrows-Wheeler]:assignment/burrows
+[WordNet]:assignment/wordnet "view on github"
+[Seam Carving]:assignment/seam "view on github"
+[Baseball Elimination]:assignment/baseball "view on github"
+[Boggle]:assignment/boggle "view on github"
+[Burrows-Wheeler]:assignment/burrows "view on github"
 <!-- specifications -->
-[spec01]:https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php
-[spec02]:https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php
-[spec03]:https://coursera.cs.princeton.edu/algs4/assignments/baseball/specification.php
-[spec04]:https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php
-[spec05]:https://coursera.cs.princeton.edu/algs4/assignments/burrows/specification.php
-[Academic Honesty Policy]:academic_honesty_policy
+[spec01]:https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php "view on coursera"
+[spec02]:https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php "view on coursera"
+[spec03]:https://coursera.cs.princeton.edu/algs4/assignments/baseball/specification.php "view on coursera"
+[spec04]:https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php "view on coursera"
+[spec05]:https://coursera.cs.princeton.edu/algs4/assignments/burrows/specification.php "view on coursera"
+<!-- misc -->
+[Academic Honesty Policy]:academic_honesty_policy "view policy"
